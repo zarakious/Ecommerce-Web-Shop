@@ -1,4 +1,4 @@
-<h1>Ecommerce Website USing ReactJS and MaterialUI</h1>
+<h1>Responsive Ecommerce Website USing ReactJS and MaterialUI</h1>
 
 1) The website is using Commerce.js As backend
 2) To use The website Just replace The Ecommerce Api in the .env File with your own Key
